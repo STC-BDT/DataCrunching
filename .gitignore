@@ -1,0 +1,10 @@
+roles/
+venv*
+.idea/
+
+*.log
+*.pyc
+__pychache__
+
+db*.sqlite3
+
