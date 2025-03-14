@@ -1,5 +1,6 @@
 {
   "id": 1,
   "name": "Widget",
-  "price": 10.0
+  "price": 10.0,
+  "quantity": 100
 }
