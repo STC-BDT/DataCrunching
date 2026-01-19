@@ -1,5 +1,6 @@
 roles/
 venv*
+.venv*
 .idea/
 
 *.log
